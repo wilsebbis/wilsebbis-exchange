@@ -37,6 +37,10 @@ Big picture:
 4. Less censorship
 5. Can invest smaller sums ($1 minimum) as opposed to things like EquityZen which may require a $10,000 minimum
 
-Anyone can now be an entrepreneur without having to jump through legal hoops and incorporate and fly to a big city to give multiple in-person pitches, like Kickstarter for selling equity on the blockchain.
+Anyone can now be an entrepreneur without having to jump through legal hoops and incorporate and fly to a big city to give multiple in-person pitches, like Kickstarter or Indiegogo for selling equity on the blockchain.
 
 Anyone can now be an investor in startups right from their phone, like Robinhood or Public.com for buying equity on the blockchain.
+
+We also see a market for integrating a mixture of Change.org and GoFundMe. This will mainly be an alternative to GoFundMe, but the integration with a service similar to Change.org will be its "gimmick," making it a place where people can promote causes they're passionate about and their votes will be held securely on the blockchain. It will be more focused on donating to causes for systemic change rather than personal medical bills and such.
+
+We also think that there is a market for flexible campaigns where the creator can set a minimum and maximum equity arrangement. So let's say they're looking for $100 for 10%, but would accept down to $50 for 5%, or up to $200 for 20%. Otherwise if the funding isn't flexible, people will only be able to fund up to the maximum, which means if a project is fully funded, nobody will be able to buy any more equity. For example: if you try to buy the last $10 worth of equity that was available when you last looked, but someone else has bought $5 in the interim, your purchase will still go through, but you will only be charged for $5 worth, and the rest will be refunded.
