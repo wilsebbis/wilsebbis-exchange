@@ -44,3 +44,12 @@ Anyone can now be an investor in startups right from their phone, like Robinhood
 We also see a market for integrating a mixture of Change.org and GoFundMe. This will mainly be an alternative to GoFundMe, but the integration with a service similar to Change.org will be its "gimmick," making it a place where people can promote causes they're passionate about and their votes will be held securely on the blockchain. It will be more focused on donating to causes for systemic change rather than personal medical bills and such.
 
 We also think that there is a market for flexible campaigns where the creator can set a minimum and maximum equity arrangement. So let's say they're looking for $100 for 10%, but would accept down to $50 for 5%, or up to $200 for 20%. Otherwise if the funding isn't flexible, people will only be able to fund up to the maximum, which means if a project is fully funded, nobody will be able to buy any more equity. For example: if you try to buy the last $10 worth of equity that was available when you last looked, but someone else has bought $5 in the interim, your purchase will still go through, but you will only be charged for $5 worth, and the rest will be refunded.
+
+Overall, the crowdfunding portion of the site will have three functions:
+1. Invest and get equity
+2. Invest and get product or merchandise
+3. Invest as a charitable act
+
+1 is similar to EquityZen, 2 is similar to Indiegogo or Kickstarter, and 3 is similar to GoFundMe
+
+People can make a campaign for anything: an author's next book; a vacation for an overworked social worker; or even a high-growth tech startup that will raise $10 million on the site, and go on to raise millions more afterward.
